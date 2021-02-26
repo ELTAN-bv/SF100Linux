@@ -1,5 +1,5 @@
 # SF100Linux
-Linux software for Dediprog SF100 and SF600 SPI flash programmers
+Linux software for Dediprog SF100, SF600, SF600Plus and SF700 SPI flash programmers
 
 ## Building
 To compile the project, first install required dependencies:
